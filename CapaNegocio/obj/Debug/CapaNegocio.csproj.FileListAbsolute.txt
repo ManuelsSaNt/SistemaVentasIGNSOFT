@@ -1,0 +1,6 @@
+C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
