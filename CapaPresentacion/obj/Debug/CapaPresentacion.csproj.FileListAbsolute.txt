@@ -10,3 +10,16 @@ C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaPresentacion\obj\Debug\CapaPre
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.Inicio.resources
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.Login.resources

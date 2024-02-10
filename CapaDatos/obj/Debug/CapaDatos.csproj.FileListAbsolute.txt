@@ -4,3 +4,9 @@ C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.cspr
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.pdb

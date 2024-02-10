@@ -4,3 +4,9 @@ C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\sSaNt0\RiderProjects\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaNegocio\obj\Debug\CapaNegocio.pdb
