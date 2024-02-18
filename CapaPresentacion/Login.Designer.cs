@@ -112,6 +112,7 @@ namespace SistemaDeVentas
             // btnIngresar
             // 
             this.btnIngresar.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnIngresar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnIngresar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnIngresar.FlatAppearance.BorderSize = 2;
             this.btnIngresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -132,6 +133,7 @@ namespace SistemaDeVentas
             // btnCancelar
             // 
             this.btnCancelar.BackColor = System.Drawing.Color.Firebrick;
+            this.btnCancelar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCancelar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnCancelar.FlatAppearance.BorderSize = 2;
             this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -163,6 +165,7 @@ namespace SistemaDeVentas
             this.Controls.Add(this.label2);
             this.Controls.Add(this.iconPictureBox1);
             this.Controls.Add(this.label1);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

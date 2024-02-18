@@ -10,7 +10,7 @@ namespace SistemaDeVentas
             InitializeComponent();
         }
 
-        private void btnCancelar_Click(object sender, EventArgs e)
+        private void  btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
@@ -26,6 +26,8 @@ namespace SistemaDeVentas
 
         private void frm_closing(object sender, FormClosingEventArgs e)
         {
+            txtDocumento.Text = "";
+            txtClave.Text = "";
             this.Show();
         }
     }
