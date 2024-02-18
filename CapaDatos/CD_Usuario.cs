@@ -31,7 +31,9 @@ namespace CapaDatos
                                 IdUsuario = Convert.ToInt32(dr["IdUsuario"]),
                                 Documento = dr["Documento"].ToString(),
                                 NombreCompleto = dr["NombreCompleto"].ToString(),
-                                Correo = dr["Correo"].ToString()
+                                Correo = dr["Correo"].ToString(),
+                                Clave = dr["Clave"].ToString(),
+                                Estado = Convert.ToBoolean(dr["Estado"])
                             });
                         }
                     }
@@ -40,11 +42,11 @@ namespace CapaDatos
                 }
                 catch (Exception ex)
                 {
-
+                    lista = new List<Usuario>();
                 }
             }
 
-            return null;
+            return lista;
         }
     
     }

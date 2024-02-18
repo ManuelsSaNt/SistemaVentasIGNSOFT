@@ -23,3 +23,20 @@ C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debu
 C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.Login.resources
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.Inicio.resources
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.Login.resources
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

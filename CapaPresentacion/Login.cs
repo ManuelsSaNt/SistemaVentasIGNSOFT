@@ -1,5 +1,9 @@
 ﻿using System;
 using System.Windows.Forms;
+using CapaNegocio;
+using CapaEntidad;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace SistemaDeVentas
 {
@@ -17,10 +21,21 @@ namespace SistemaDeVentas
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            Inicio form = new  Inicio();
-            form.Show();
-            this.Hide();
-            form.FormClosing += frm_closing;
+            List<Usuario> Test = new CN_Usuario().listar();
+            
+            Usuario ousuario = new CN_Usuario().listar().Where(u => u.Documento == txtDocumento.Text && u.Clave == txtClave.Text).FirstOrDefault();
+            
+            if (ousuario !=null)
+            {
+                Inicio form = new Inicio();
+                form.Show();
+                this.Hide();
+                form.FormClosing += frm_closing;
+            }
+            else
+            {
+                MessageBox.Show("No se Encontro el Usuario", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
             
         }
 

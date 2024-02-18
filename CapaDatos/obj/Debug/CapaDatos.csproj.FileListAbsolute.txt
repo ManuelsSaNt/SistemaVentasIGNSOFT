@@ -10,3 +10,7 @@ C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaD
 C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Manuel Samaniego\Desktop\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaDatos\obj\Debug\CapaDatos.pdb
