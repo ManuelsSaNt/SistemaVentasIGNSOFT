@@ -27,7 +27,7 @@ namespace SistemaDeVentas
             
             if (ousuario !=null)
             {
-                Inicio form = new Inicio();
+                Inicio form = new Inicio(ousuario);
                 form.Show();
                 this.Hide();
                 form.FormClosing += frm_closing;

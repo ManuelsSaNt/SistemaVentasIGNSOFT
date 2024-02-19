@@ -40,3 +40,4 @@ C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Deb
 C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\jes12\OneDrive\Escritorio\SistemaVentasIGNSOFT\CapaPresentacion\obj\Debug\SistemaDeVentas.frmUsuarios.resources
